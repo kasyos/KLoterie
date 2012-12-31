@@ -1,0 +1,8 @@
+MessagedeDepart:
+  Activer: true
+  Message: "Le plugin KLoterie est activer !"
+MessageArret:
+  Activer: true
+  Message: "Le plugin KLoterie est desactiver !"
+ActiverLoterie : true
+PrixTicket: 5.00

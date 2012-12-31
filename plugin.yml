@@ -1,0 +1,9 @@
+name: KLoterie
+main: fr.kasyos.kloterie.MainKloterie
+version: 1.3
+authors: [kasyos, kasyos.fr]
+depend: [Vault]
+commands:
+  kloterie:
+    usage: /kloterie
+    description: vente ticket de loterie
